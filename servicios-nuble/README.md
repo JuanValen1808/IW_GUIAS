@@ -1,7 +1,7 @@
 # Actividad 8: Prototipo Web para Empresa de Servicios TI (ÑubleTech Solutions)
 
 ## Parte 1 - Reutilización del proyecto
-Se tomó como base la arquitectura modular de la Actividad 7. Se conservó el estado reactivo centralizado con `reactive` (`stores`), la interacción entre componentes padre e hijo, y la estructura de formularios validados. Se eliminaron los módulos específicos de libros y recepciones escolares, adaptándolos a una empresa de servicios de soporte informático y desarrollo web llamada **ÑubleTech Solutions**.
+Se tomó como base la arquitectura modular de la Actividad 7. Se conservó el estado reactivo centralizado con `reactive` (`stores`), la interacción entre componentes padre e hijo, y la estructura de formularios validados. Se eliminaron los módulos de libros y recepciones escolares, adaptándolos a una empresa de servicios de soporte informático y desarrollo web llamada **ÑubleTech Solutions**.
 
 ## Parte 2 - Navegación y vistas
 Se implementó una SPA mediante `Vue Router` con 4 vistas principales:
@@ -21,3 +21,4 @@ El formulario incluye validación de campos obligatorios (nombre, correo, teléf
 
 ## Parte 6 - Diseño y revisión final
 Se unificó la paleta de colores corporativa (tonos azul y pizarra) dando coherencia a la interfaz. Se verificó el correcto funcionamiento de las rutas, respuestas de filtros y ausencia de errores en la consola.
+EOF
