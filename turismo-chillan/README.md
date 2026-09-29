@@ -8,7 +8,3 @@
   * Contacto: Formulario de consultas.
 * **Mapa de navegación:** Estructura centralizada mediante `Navbar` navegable utilizando `Vue Router`.
 
-## Ejecución del proyecto
-```bash
-npm install
-npm run dev
