@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <Contacto />
+    <Tareas />
   </div>
 </template>
 
 <script setup>
-import Contacto from './components/Contacto.vue'
+import Tareas from './components/Tareas.vue'
 </script>
